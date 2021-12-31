@@ -8,7 +8,7 @@ The human hand is a uniquely complex effector. The ability to describe hand kine
 ## Repository contents
 This repository contains analysis code for assessment of dimensionality reduction techniques for representation of hand kinematics using features with temporal dynamics.
 
-The '''analysis''' folder contains all Python scripts for training and evaluating dimensionality reduction models, including:
+The ```analysis``` folder contains all Python scripts for training and evaluating dimensionality reduction models, including:
 - Reconstruction of kinematic data
 - Classification of reconstructed movements
 - Interpolation of previously unseen movements
