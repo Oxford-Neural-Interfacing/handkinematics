@@ -25,7 +25,7 @@ Data and results folders are not included with the repository (see below).
 ## Contact
 For enquiries related to this project, please contact:
 
-Conor Keogh: <conor.keogh@nds.ox.ac.uk>
+Conor Keogh: <conor.keogh@nds.ox.ac.uk>  
 James FitzGerald: <james.fitzgerald@nds.ox.ac.uk>
 
 ## Data availability

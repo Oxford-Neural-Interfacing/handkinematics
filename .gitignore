@@ -1,0 +1,11 @@
+# gitignore for hand biomechanics
+*.swp
+*.swo
+
+analysis/.ipynb*
+analysis/__*
+
+# Ignore data folders
+results/*
+data/*
+report/*
